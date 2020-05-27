@@ -1,0 +1,15 @@
+MC	¿Cuál es el moneda oficial de Brasil?	Real brasileño	correct	Cruzeiro	incorrect	Dólar	incorrect	Cruzeiro Real	incorrect				
+MA	Seleccione los animales mamíferos de la siguiente lista	Canguro	correct	Ballena	correct	Tiburón	incorrect	Oso	correct				
+TF	La primera ley de Newton establece que un objeto permanecerá en su estado a menos que actue una fuerza sobre él.	true											
+TF	La segunda ley de Newton establece que la fuerza es directamente proporcional a la masa y a la acelaración al cuadrado de un cuerpo.	false											
+ESS	Describa en menos de 100 palabras, el modelo de aprendizaje conductista	[Inicie aquí]											
+ORD	¿Cómo es el ciclo de vida de los eres vivos?	Nacen	se alimentan	crecen	se relacionan	se reproducen	envejecen	mueren					
+MAT	Relacione país organizador con año del Mundial de Fútbol	1998	Francia	1986	México	1982	España	2014	Brasil	2018	Rusia		
+FIB	"El ____ es la unidad del SI para longiutd que se describe con la letra ""m"". "	metro											
+FIB_PLUS	"A partir de la señal descrita con la ecuación: 3 + 4 cos(2 &#928; t +  &#928;/4 ). Se sabe que es una señal [a] su valor proemdio es [b], su valor máximo es [c] y su periodo es de [d]."	a	sinusoidal		b	3		c	7		d	1	
+FIL	A partir de los datos mostrados en el archivo de Excel, obtener los valores de: moda, media, mediana, varianza y desviación estandar												
+NUM	El perímetro de una circunferencia con radio 5, es de:	31,4	1,5										
+SR	Escriba el ejemplo de una metáfora	[De el ejemplo aquí]											
+OP	Según al lectuara realizada, indique el grado de relación que hay entre comportameinto y lenguaje												
+JUMBLED_SENTENCE	La molécula de agua está compuesta por dos átomos de [a] y un átomo de [b], unidos por un enlace [c].	hidrógeno	a		oxígeno	b		nitrógeno		covalente	c		no covalente
+QUIZ_BOWL	Es el atleta con el record mundial en la prueba de 100 m planos	Quien		Quien es Usain Bolt?									
